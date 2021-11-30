@@ -1,0 +1,24 @@
+[data-testid|=stHorizontalBlock] [data-testid|=stBlock]:nth-of-type(6) button {
+  background-color: #0064a6;
+  color: #fff;
+  width: 120px;
+}
+
+/* style the submit buttons */
+[data-testid|=stFormSubmitButton] {
+  text-align: center;
+}
+[data-testid|=stFormSubmitButton]>button {
+  color: inherit;
+  width: 100px;
+}
+
+/* highlight the model expanders */
+.streamlit-expander {
+  background-color: rgba(0, 100, 166, 0.2);
+}
+
+/* sliders
+[data-baseweb|=slider] {
+  width: 100%;
+} */

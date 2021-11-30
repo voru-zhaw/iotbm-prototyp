@@ -1,0 +1,13 @@
+[data-testid|=stHorizontalBlock] [data-testid|=stBlock]:nth-of-type(4) button {
+  background-color: #0064a6;
+  color: #fff;
+  width: 120px;
+}
+
+[data-testid|=stFormSubmitButton] {
+  text-align: center;
+}
+[data-testid|=stFormSubmitButton]>button {
+  color: inherit;
+  width: 100px;
+}

@@ -1,0 +1,5 @@
+[data-testid|=stHorizontalBlock]>[data-testid|=stBlock]:nth-of-type(7) button {
+  background-color: #0064a6;
+  color: #fff;
+  width: 120px;
+}

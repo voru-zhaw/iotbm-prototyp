@@ -1,0 +1,13 @@
+.block-container {
+  padding: 2rem 4rem 1rem
+}
+
+.stButton>button {
+  background-color: #fff;
+  color: #ced4da;
+  width: 120px;
+}
+
+hr {
+  margin: 0;
+}
